@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Rails::Webpack::Assets::VERSION
   s.authors     = ["hikaruna"]
   s.email       = ["me@hikaruna.net"]
-  s.homepage    = "TODO"
+  s.homepage    = "https://github.com/hikaruna/rails-webpack-assets"
   s.summary     = "assets generator for webpacker"
   s.description = "assets generator for webpacker."
   s.license     = "MIT"
